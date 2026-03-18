@@ -92,9 +92,13 @@ The project uses **SQL, Excel, and Power BI** to solve real-world business probl
 ## 📸 Dashboard Preview
 
 <img width="1330" height="740" alt="image" src="https://github.com/user-attachments/assets/303f2bad-7379-4607-8b0d-0a9dc9a80465" />
+
 <img width="1336" height="745" alt="image" src="https://github.com/user-attachments/assets/b1b95657-362d-49d1-9005-a823dc1ed504" />
+
 <img width="1330" height="753" alt="image" src="https://github.com/user-attachments/assets/675e398b-bccb-4957-8624-f635316c7021" />
+
   <img width="1330" height="753" alt="image" src="https://github.com/user-attachments/assets/e397bd8f-d80c-4bab-8c95-5095187ff8ee" />
+  
   <img width="1363" height="751" alt="image" src="https://github.com/user-attachments/assets/16443c58-10de-4e08-8740-a839921034c6" />
 
 
