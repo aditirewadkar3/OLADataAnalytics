@@ -132,21 +132,3 @@ git clone https://github.com/your-username/OLADataAnalytics.git
 
 ---
 
-## 💡 Future Improvements
-
-* Add real-time data integration
-* Deploy dashboard online
-* Use Python for advanced analytics
-* Apply machine learning for predictions
-
----
-
-## 👩‍💻 Author
-
-**Aditi Rewadkar**
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
